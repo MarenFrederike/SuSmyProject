@@ -24,10 +24,4 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<variableList>
-		<variable>
-			<name>TIVAWARE_INSTALL</name>
-			<value>file:/D:/Studium/IT_Github/sus-workshop/Kursmaterialien/TivaWare%20Framework/TivaWare%20Framework</value>
-		</variable>
-	</variableList>
 </projectDescription>
